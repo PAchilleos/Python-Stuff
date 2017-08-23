@@ -1,0 +1,5 @@
+exec(open('Path with double backslashes').read())
+
+Example
+
+exec(open('C:\\Users\\Procopis\\Desktop\\Projects\\Python Stuff\\Examples\\Basics\\file.py').read())
